@@ -1,0 +1,21 @@
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 29px;
+    border-radius: 8px;
+    box-shadow: 0 0 30px #bbb;
+    align-items: center;
+    height: 100px;
+}
+.Icons
+{
+    display: flex;
+    gap: 5px;
+}
+.copyright
+{
+    font-size: 19px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 300;
+}

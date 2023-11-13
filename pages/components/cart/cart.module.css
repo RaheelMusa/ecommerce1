@@ -1,0 +1,27 @@
+
+.container{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+}
+
+.cart{
+     display: block;
+     margin-top: 30px;
+ }    
+ .cartHeader{
+     font-size: 40px;
+ }                                            
+ .cartList{
+     display: flex;
+     justify-content: space-between;
+     width: 60%;
+     margin: 0 auto;
+ }
+ .cartImg{
+     width: 200px;
+ }
+ 
+ 
+ 
