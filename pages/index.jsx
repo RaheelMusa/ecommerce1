@@ -36,7 +36,7 @@ export default function Home() {
         <div className={styles.header}>
           <h1 className={styles.title}>Our product ({product.length})</h1>
           <div className={styles.headerinput}>  
-            <a href="../components/cart/cartpage"><i class="fa-solid fa-cart-shopping"><span>{cart.length}</span></i></a>
+            <a href="../components/cart/cartpage"><i className="fa-solid fa-cart-shopping"><span>{cart.length}</span></i></a>
           <input
             type="search"
             placeholder="Search Here..."
